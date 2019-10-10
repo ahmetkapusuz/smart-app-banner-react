@@ -104,8 +104,7 @@ const AppBanner = ({
   onClose = function() {},
   style,
 }) => {
-  // const [show, setShow] = useState(!hidden);
-  const show = true;
+  const [show, setShow] = useState(!hidden);
   const {
     imageUrl,
     name,
@@ -114,8 +113,6 @@ const AppBanner = ({
     linkButtonText,
     linkUrl,
   } = appInfo;
-
-  console.log('appinfo: ', appInfo);
 
   return (
     show && (
