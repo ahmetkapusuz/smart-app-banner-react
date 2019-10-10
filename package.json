@@ -1,6 +1,6 @@
 {
   "name": "smart-app-banner-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Smart app banner react component",
   "main": "src/index.js",
   "scripts": {
@@ -9,6 +9,11 @@
     "start": "webpack-dev-server --config webpack.development.config.js --open"
   },
   "author": "Ahmet Kapusuz",
+  "homepage": "https://github.com/ahmetkapusuz/smart-app-banner-react",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmetkapusuz/smart-app-banner-react"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
