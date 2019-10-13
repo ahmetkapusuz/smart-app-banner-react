@@ -1,6 +1,6 @@
 # Smart App Banner React Component
 
-This is a simple smart app banner component for react applications
+This is a simple smart app banner component for react applications.
 
 ## Installation
 
@@ -42,3 +42,11 @@ import AppBanner from 'react-smart-app-banner';
   }}
 />
 ```
+
+## Dependency
+
+Minimum react, react-dom version: 16.8.0
+
+## Codesandbox Example
+
+https://codesandbox.io/s/smartappbannertest-xujvl
