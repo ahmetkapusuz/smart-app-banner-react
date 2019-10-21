@@ -50,3 +50,7 @@ Minimum react, react-dom version: 16.8.0
 ## Codesandbox Example
 
 https://codesandbox.io/s/smartappbannertest-xujvl
+
+## License
+
+This project is licensed under the terms of the MIT license.
