@@ -53,4 +53,4 @@ https://codesandbox.io/s/smartappbannertest-xujvl
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the [MIT](https://github.com/ahmetkapusuz/smart-app-banner-react/blob/master/LICENSE) license.
