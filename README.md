@@ -8,7 +8,7 @@ This is a simple smart app banner component for react applications.
 
 ## Example
 
-Sample configurations:
+Sample configurations for the banner:
 
 ```javascript
 const appInfo = {

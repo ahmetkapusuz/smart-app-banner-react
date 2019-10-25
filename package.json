@@ -1,6 +1,6 @@
 {
   "name": "smart-app-banner-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Smart app banner react component",
   "main": "src/index.js",
   "scripts": {
@@ -14,6 +14,20 @@
     "type": "git",
     "url": "https://github.com/ahmetkapusuz/smart-app-banner-react"
   },
+  "keywords": [
+    "react",
+    "component",
+    "ui",
+    "ios",
+    "iphone",
+    "android",
+    "smart",
+    "banner",
+    "smartbanner",
+    "smartappbanner",
+    "SmartAppBannerReact",
+    "styled-components"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
