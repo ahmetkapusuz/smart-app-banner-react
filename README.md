@@ -45,7 +45,7 @@ import AppBanner from 'react-smart-app-banner';
 
 ## Dependency
 
-Minimum react, react-dom version: 16.8.0
+Minimum react, react-dom version: 17.1.0
 
 ## Codesandbox Example
 
