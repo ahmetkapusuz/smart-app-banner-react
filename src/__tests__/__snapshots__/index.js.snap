@@ -2,7 +2,7 @@
 
 exports[`Should render successfully 1`] = `
 <div
-  className="src__BannerContainer-a5pshd-0 dgmqtU"
+  className="src__BannerContainer-a5pshd-0 chIqUp"
   style={
     Object {
       "zIndex": 10,
@@ -10,47 +10,47 @@ exports[`Should render successfully 1`] = `
   }
 >
   <div
-    className="src__CloseButtonContainer-a5pshd-1 eZJbdt"
+    className="src__CloseButtonContainer-a5pshd-1 fSNzsZ"
   >
     <button
-      className="src__CloseButton-a5pshd-2 kYGKZw"
+      className="src__CloseButton-a5pshd-2 jPXJIA"
       onClick={[Function]}
     >
       X
     </button>
   </div>
   <div
-    className="src__AppImageContainer-a5pshd-3 fzCEWt"
+    className="src__AppImageContainer-a5pshd-3 jxGGwH"
   >
     <img
-      className="src__AppImage-a5pshd-4 khvPVu"
+      className="src__AppImage-a5pshd-4 eFctPx"
       src="https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s360-rw"
     />
   </div>
   <div
-    className="src__AppInfoContainer-a5pshd-5 jigZSH"
+    className="src__AppInfoContainer-a5pshd-5 jUeODP"
   >
     <div
-      className="src__AppName-a5pshd-6 ipKihf"
+      className="src__AppName-a5pshd-6 jqozyK"
     >
       Facebook
     </div>
     <div
-      className="src__AppPublisher-a5pshd-7 gzSXyB"
+      className="src__AppPublisher-a5pshd-7 gTmtwF"
     >
       Facebook
     </div>
     <div
-      className="src__AppPublisher-a5pshd-7 gzSXyB"
+      className="src__AppPublisher-a5pshd-7 gTmtwF"
     >
       Free - In Google Play
     </div>
   </div>
   <div
-    className="src__AppLinkContainer-a5pshd-8 hryOIE"
+    className="src__AppLinkContainer-a5pshd-8 lhkQrc"
   >
     <a
-      className="src__AppLinkButton-a5pshd-9 hHXDvk"
+      className="src__AppLinkButton-a5pshd-9 jkHBQT"
       href="https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en"
       target="_blank"
     >
